@@ -2,7 +2,7 @@
 
 **Subject**: Software Engineering  
 **Assignment**: Final Practical Exercise  
-**Authors**: Tarik Hadzimusovic  
+**Authors**: Tarik Hadzimusovic  Darko Dzudovic
 **Professor**: Antonio Jesús Sánchez Guirado  
 **Date**: May 2026
 
