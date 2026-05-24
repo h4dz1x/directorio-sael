@@ -2,7 +2,8 @@
 
 **Asignatura**: Ingeniería de Software  
 **Ejercicio**: Práctica Final  
-**Autores**: Tarik Hadzimusovic  
+**Autores**: Tarik Hadzimusovic  Darko Dzuodvic
+
 **Profesor**: Antonio Jesús Sánchez Guirado  
 **Fecha**: Mayo 2026
 
